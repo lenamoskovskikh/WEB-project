@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-family: Abril Fatface;
+    font-size: 80px;
+    margin-top: -40px;
+    margin-left: 200px;
+    margin-bottom: 40px;
+    margin-right: 200px;
+    text-align: center;
+    text-color: #000;
+    border-color: #FFF;
+}
+
+p {
+    font-family: Nunito;
+    color: #000;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-bottom: 40px;
+    margin-right: 200px;
+    text-align: justify;
+}
+
+a {
+    color: #000;
+}
+
+video {
+    width: 100%;
+}
+
+.gallery {
+    display: inline;
+    margin: 40px;
+}
+
+.gallery img {
+    height: 360px;
+}
+
